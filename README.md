@@ -35,6 +35,10 @@ Start the server
 ```
 
 
+## Demo
+
+
+
 ## Main Tech Stack
 
 1. React 
@@ -50,11 +54,11 @@ Start the server
 
 ##  Contributors
 
-1. Rahul Anand 
+Rahul Anand 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ahulanand/)
 
-2. Pradyumna Singh
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prady8339/)
+[![instagram](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bliss_anand)
+
 
 
 
